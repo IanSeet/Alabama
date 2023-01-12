@@ -1,0 +1,25 @@
+driver 2 14
+driverS 24 14
+driveN0 2
+i1 2 4 11
+nandNeut11 2 4 10 14 24
+nandNeut01 1 4 10 14 24
+nandNeut00 1 4 10 14 23
+nandNeut10 2 4 10 14 23
+nandSwitch1100 2 4 10 14
+phaseChain2 2 4 10 15 24
+phaseChain3 2 4 10 15 24
+phaseChain4 2 4 10 15 24
+switch10 2 4 10 14 24
+nandOnly 14
+inv 2 4 10 14 24
+directChain 2 4 10 14 24
+invOnly 14
+noInv 14
+invDisp 14
+zextend 14
+pipe1 2 4 10 14 24
+pipe2 2 4 10 14 24
+pipe3 2 4 10 14 24
+hadder0111 15 100 111 121 131
+hadderBoost0111 15 100 111 121 131

@@ -1,0 +1,15 @@
+;fragments
+nand 0 0 0 0 0 0 180
+mm0 3.75 -2.5 0 0 0 0
+m1 -3.75 -2.5 0 0 0 0
+!
+;interactions
+bond 2.5 13000
+0 0 2 1
+bond 2.5 13000
+0 1 1 0
+!
+;suppressed
+!
+;
+!
