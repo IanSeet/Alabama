@@ -1,4 +1,0 @@
-new nand2 t SP
-new driveN0 t SP
-new driveP0 t SP
-mtop d0 r MDR 100000 1000 1 aux1 act nandNeut00
