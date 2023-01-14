@@ -1,0 +1,16 @@
+;fragments
+mux 0 0 0 0 0 0
+offNN02 3 -11 0 0 0 0
+offN02 0 -4 0 0 0 0
+!
+;interactions
+chain 2.5 13000
+0 0 2 0
+chain 9.5 13000
+0 1 1 0
+!
+;suppressed
+!
+;special
+spec 0 1
+!

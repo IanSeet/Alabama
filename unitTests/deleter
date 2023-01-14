@@ -1,0 +1,10 @@
+#!/bin/bash
+
+rm *.xyz
+rm *.top
+rm *.conf
+rm *.mol2
+rm *Expend*
+rm *Energ*
+rm *Observ*
+rm *Dipoles*

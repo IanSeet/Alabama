@@ -1,0 +1,2099 @@
+new doubleBit r MDR 100000 1000 1 aux0 act doubleBit
+Parameters overridden...
+Parsing completed...
+time: 0 potential: 4178.92
+constraint: 0
+constrainAxis: 2969.88
+constrainAxisTime: 400
+bond: 0.378385
+angle: 4.17221
+dihedral: 2.70966e-23
+external dipole: 800
+dispersion: 4.48743
+electrostatic: 0
+time: 1 potential: 1062.46 Rotational KE: 42.495 Translational KE: 66.7474 TE: 1171.7
+constraint: 13.6496
+constrainAxis: 548.286
+constrainAxisTime: 71.164
+bond: 0.301466
+angle: 26.2761
+dihedral: 22.9101
+external dipole: 363.023
+dispersion: 16.8509
+electrostatic: 0
+time: 2 potential: 571.951 Rotational KE: 1.5223 Translational KE: 0.10849 TE: 573.581
+constraint: 0.900512
+constrainAxis: 216.625
+constrainAxisTime: 0.0134877
+bond: 0.117134
+angle: 1.50728
+dihedral: 3.61407
+external dipole: 343.638
+dispersion: 5.53491
+electrostatic: 0
+time: 3 potential: 570.932 Rotational KE: 0.0385626 Translational KE: 0.00277674 TE: 570.973
+constraint: 0.665413
+constrainAxis: 216.133
+constrainAxisTime: 0.0121673
+bond: 0.111587
+angle: 1.19665
+dihedral: 3.59537
+external dipole: 343.464
+dispersion: 5.75324
+electrostatic: 0
+time: 4 potential: 570.877 Rotational KE: 0.0019833 Translational KE: 0.000258107 TE: 570.879
+constraint: 0.658354
+constrainAxis: 216.106
+constrainAxisTime: 0.0104826
+bond: 0.11128
+angle: 1.1551
+dihedral: 3.59767
+external dipole: 343.442
+dispersion: 5.79564
+electrostatic: 0
+time: 5 potential: 570.876 Rotational KE: 9.88025e-05 Translational KE: 1.85555e-05 TE: 570.876
+constraint: 0.658139
+constrainAxis: 216.113
+constrainAxisTime: 0.0105658
+bond: 0.111179
+angle: 1.16667
+dihedral: 3.59719
+external dipole: 343.445
+dispersion: 5.77341
+electrostatic: 0
+time: 6 potential: 570.876 Rotational KE: 1.54339e-06 Translational KE: 2.07497e-07 TE: 570.876
+constraint: 0.658132
+constrainAxis: 216.111
+constrainAxisTime: 0.0105643
+bond: 0.111191
+angle: 1.16413
+dihedral: 3.5971
+external dipole: 343.445
+dispersion: 5.77863
+electrostatic: 0
+time: 7 potential: 570.876 Rotational KE: 1.3278e-07 Translational KE: 5.54482e-09 TE: 570.876
+constraint: 0.658126
+constrainAxis: 216.112
+constrainAxisTime: 0.0105573
+bond: 0.111188
+angle: 1.16447
+dihedral: 3.59711
+external dipole: 343.445
+dispersion: 5.77734
+electrostatic: 0
+time: 8 potential: 570.876 Rotational KE: 1.68473e-08 Translational KE: 1.55601e-09 TE: 570.876
+constraint: 0.658118
+constrainAxis: 216.112
+constrainAxisTime: 0.0105576
+bond: 0.111188
+angle: 1.16442
+dihedral: 3.59711
+external dipole: 343.445
+dispersion: 5.77751
+electrostatic: 0
+time: 9 potential: 570.876 Rotational KE: 5.56955e-10 Translational KE: 1.56346e-10 TE: 570.876
+constraint: 0.65812
+constrainAxis: 216.112
+constrainAxisTime: 0.0105582
+bond: 0.111188
+angle: 1.16443
+dihedral: 3.59711
+external dipole: 343.445
+dispersion: 5.77756
+electrostatic: 0
+time: 10 potential: 570.876 Rotational KE: 2.73731e-11 Translational KE: 4.93847e-12 TE: 570.876
+constraint: 0.658119
+constrainAxis: 216.112
+constrainAxisTime: 0.0105581
+bond: 0.111188
+angle: 1.16443
+dihedral: 3.59711
+external dipole: 343.445
+dispersion: 5.77754
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 115.71
+time: 0 potential: 371.827 Rotational KE: 0.65591 Translational KE: 0.0576824 TE: 372.541
+constraint: 0.655896
+constrainAxis: 17.3157
+constrainAxisTime: 0.0105581
+bond: 0.114512
+angle: 1.16585
+dihedral: 3.59257
+external dipole: 343.196
+dispersion: 5.77586
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 116.733
+time: 5 potential: 92.9752 Rotational KE: 27.5817 Translational KE: 30.9936 TE: 151.551
+constraint: 43.0356
+constrainAxis: 20.6634
+constrainAxisTime: 0.022008
+bond: 3.20082
+angle: 11.355
+dihedral: 2.6419
+external dipole: 5.63651
+dispersion: 6.42004
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 114.837
+time: 10 potential: 76.7326 Rotational KE: 23.1596 Translational KE: 30.7762 TE: 130.668
+constraint: 33.3408
+constrainAxis: 23.699
+constrainAxisTime: 0.0675826
+bond: 5.02723
+angle: 9.11639
+dihedral: 1.01145
+external dipole: 0.294669
+dispersion: 4.17542
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 116.922
+time: 15 potential: 79.2525 Rotational KE: 24.7925 Translational KE: 22.6959 TE: 126.741
+constraint: 34.6706
+constrainAxis: 14.2231
+constrainAxisTime: 2.17511
+bond: 7.52578
+angle: 5.64433
+dihedral: 2.1091
+external dipole: 0.57206
+dispersion: 12.3324
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 115.774
+time: 20 potential: 72.1685 Rotational KE: 24.3056 Translational KE: 30.2448 TE: 126.719
+constraint: 29.7498
+constrainAxis: 19.3408
+constrainAxisTime: 1.6558
+bond: 3.31089
+angle: 5.35417
+dihedral: 4.03071
+external dipole: 2.91877
+dispersion: 5.80761
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 115.571
+time: 25 potential: 65.9326 Rotational KE: 23.4698 Translational KE: 23.8162 TE: 113.219
+constraint: 25.8907
+constrainAxis: 14.1421
+constrainAxisTime: 0.165663
+bond: 5.08033
+angle: 6.68849
+dihedral: 2.02901
+external dipole: 0.163311
+dispersion: 11.773
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 114.891
+time: 30 potential: 68.8058 Rotational KE: 28.3718 Translational KE: 26.8481 TE: 124.026
+constraint: 21.8263
+constrainAxis: 21.3565
+constrainAxisTime: 0.00567105
+bond: 5.42123
+angle: 7.94212
+dihedral: 2.52988
+external dipole: 0.958576
+dispersion: 8.76555
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 115.663
+time: 35 potential: 60.5671 Rotational KE: 17.0613 Translational KE: 23.2483 TE: 100.877
+constraint: 19.4929
+constrainAxis: 16.8685
+constrainAxisTime: 0.0246647
+bond: 4.37119
+angle: 4.67565
+dihedral: 4.10377
+external dipole: 0.252623
+dispersion: 10.7777
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 115.452
+time: 40 potential: 80.27 Rotational KE: 26.493 Translational KE: 34.86 TE: 141.623
+constraint: 39.7826
+constrainAxis: 17.1545
+constrainAxisTime: 0.370013
+bond: 7.82451
+angle: 4.85478
+dihedral: 1.29649
+external dipole: 0.718586
+dispersion: 8.26856
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 115.336
+time: 45 potential: 67.8374 Rotational KE: 29.771 Translational KE: 32.3598 TE: 129.968
+constraint: 27.141
+constrainAxis: 20.5092
+constrainAxisTime: 0.125328
+bond: 2.93459
+angle: 8.11666
+dihedral: 2.92521
+external dipole: 0.699977
+dispersion: 5.38549
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 116.355
+time: 50 potential: 86.2329 Rotational KE: 28.6179 Translational KE: 31.5358 TE: 146.387
+constraint: 42.1476
+constrainAxis: 16.8496
+constrainAxisTime: 0.288891
+bond: 10.9661
+angle: 4.41315
+dihedral: 1.66989
+external dipole: 0.846116
+dispersion: 9.05163
+electrostatic: 0
+80.6148 26.8054 31.9522
+bondgen complete
+printed rigid and bridge
+Angle between:
+6 2 0 1 and 1 0 0 : 116.338
+time: 0 potential: 81.5447 Rotational KE: 27.8361 Translational KE: 33.5645 TE: 142.945
+constraint: 42.7471
+constrainAxis: 13.1126
+constrainAxisTime: 0.29477
+bond: 9.46055
+angle: 4.25417
+dihedral: 1.60747
+external dipole: 0.899562
+dispersion: 9.1684
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 116.407
+time: 5 potential: 66.5245 Rotational KE: 23.9118 Translational KE: 33.4644 TE: 123.901
+constraint: 28.4639
+constrainAxis: 15.2682
+constrainAxisTime: 0.0780371
+bond: 6.29944
+angle: 6.36873
+dihedral: 1.79788
+external dipole: 0.254787
+dispersion: 7.99352
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 117.011
+time: 10 potential: 70.3203 Rotational KE: 29.7439 Translational KE: 21.8197 TE: 121.884
+constraint: 29.8315
+constrainAxis: 12.5115
+constrainAxisTime: 0.0803364
+bond: 5.78988
+angle: 10.6719
+dihedral: 2.90167
+external dipole: 1.64463
+dispersion: 6.88885
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 117.252
+time: 15 potential: 94.1579 Rotational KE: 33.3416 Translational KE: 21.2592 TE: 148.759
+constraint: 36.7554
+constrainAxis: 11.6189
+constrainAxisTime: 0.162471
+bond: 10.2129
+angle: 16.3986
+dihedral: 5.01122
+external dipole: 2.43674
+dispersion: 11.5616
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 116.422
+time: 20 potential: 72.922 Rotational KE: 26.6649 Translational KE: 30.1549 TE: 129.742
+constraint: 38.5954
+constrainAxis: 14.4395
+constrainAxisTime: 0.673922
+bond: 5.63172
+angle: 6.7715
+dihedral: 1.16473
+external dipole: 0.361224
+dispersion: 5.28399
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 116.271
+time: 25 potential: 67.2469 Rotational KE: 37.6773 Translational KE: 17.605 TE: 122.529
+constraint: 25.3918
+constrainAxis: 12.8877
+constrainAxisTime: 0.919631
+bond: 4.07257
+angle: 9.7191
+dihedral: 3.1354
+external dipole: 0.840578
+dispersion: 10.2801
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 115.803
+time: 30 potential: 70.1941 Rotational KE: 33.0957 Translational KE: 28.7325 TE: 132.022
+constraint: 25.0629
+constrainAxis: 12.643
+constrainAxisTime: 0.486051
+bond: 10.7076
+angle: 7.96606
+dihedral: 2.41396
+external dipole: 0.467002
+dispersion: 10.4475
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 115.219
+time: 35 potential: 79.5084 Rotational KE: 26.6123 Translational KE: 23.8228 TE: 129.943
+constraint: 43.9567
+constrainAxis: 12.309
+constrainAxisTime: 0.436091
+bond: 7.36899
+angle: 5.30842
+dihedral: 2.36934
+external dipole: 0.618856
+dispersion: 7.14092
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 115.741
+time: 40 potential: 65.4544 Rotational KE: 27.8285 Translational KE: 28.8115 TE: 122.094
+constraint: 28.0053
+constrainAxis: 12.5173
+constrainAxisTime: 0.339753
+bond: 4.94444
+angle: 8.77004
+dihedral: 1.16706
+external dipole: 0.736922
+dispersion: 8.97368
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 117.155
+time: 45 potential: 69.0182 Rotational KE: 32.2199 Translational KE: 18.7398 TE: 119.978
+constraint: 28.76
+constrainAxis: 15.4757
+constrainAxisTime: 1.05799
+bond: 5.34112
+angle: 7.40075
+dihedral: 1.79542
+external dipole: 1.13486
+dispersion: 8.05239
+electrostatic: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 114.813
+time: 50 potential: 74.0598 Rotational KE: 28.3418 Translational KE: 25.9292 TE: 128.331
+constraint: 38.4285
+constrainAxis: 15.199
+constrainAxisTime: 0.354544
+bond: 4.74093
+angle: 3.3621
+dihedral: 2.13405
+external dipole: 0.820506
+dispersion: 9.02013
+electrostatic: 0
+73.1425 27.2956 27.4759
+ED: 0
+ED: 0
+Angle between:
+6 2 0 1 and 1 0 0 : 114.845
+-----
+doubleBit run 1 of 1: 0%
+time: 0 potential: 72.4632 Rotational KE: 28.1735 Translational KE: 27.583 TE: 128.22
+expenditure: 0
+constraint: 36.8531
+constrainAxis: 15.1428
+constrainAxisTime: 0.360376
+bond: 4.66947
+angle: 3.35895
+dihedral: 2.15509
+external dipole: 0.807581
+dispersion: 9.11576
+electrostatic: 0
+ED: -0.063
+ED: -0.063
+Angle between:
+6 2 0 1 and 1 0 0 : 114.502
+-----
+doubleBit run 1 of 1: 1%
+time: 1 potential: 75.9284 Rotational KE: 23.589 Translational KE: 32.1314 TE: 131.649
+expenditure: 1.01739
+constraint: 30.276
+constrainAxis: 10.8431
+constrainAxisTime: 0.213524
+bond: 11.9667
+angle: 7.46612
+dihedral: 2.71822
+external dipole: 1.65114
+dispersion: 10.7937
+electrostatic: 0
+ED: -0.126
+ED: -0.126
+Angle between:
+6 2 0 1 and 1 0 0 : 115.244
+-----
+doubleBit run 1 of 1: 2%
+time: 2 potential: 72.7475 Rotational KE: 22.6781 Translational KE: 20.8455 TE: 116.271
+expenditure: 0.75805
+constraint: 33.6022
+constrainAxis: 18.2919
+constrainAxisTime: 0.0355822
+bond: 7.19241
+angle: 4.11521
+dihedral: 3.04169
+external dipole: 0.620776
+dispersion: 5.84772
+electrostatic: 0
+ED: -0.188
+ED: -0.188
+Angle between:
+6 2 0 1 and 1 0 0 : 116.495
+-----
+doubleBit run 1 of 1: 3%
+time: 3 potential: 67.7624 Rotational KE: 25.1466 Translational KE: 25.382 TE: 118.291
+expenditure: -0.254721
+constraint: 25.1134
+constrainAxis: 11.8029
+constrainAxisTime: 0.128728
+bond: 4.51294
+angle: 6.67848
+dihedral: 3.63832
+external dipole: 0.623437
+dispersion: 15.2642
+electrostatic: 0
+ED: -0.251
+ED: -0.251
+Angle between:
+6 2 0 1 and 1 0 0 : 115.036
+-----
+doubleBit run 1 of 1: 4%
+time: 4 potential: 63.469 Rotational KE: 36.5634 Translational KE: 15.5963 TE: 115.629
+expenditure: -0.237773
+constraint: 28.7458
+constrainAxis: 13.1602
+constrainAxisTime: 0.214919
+bond: 2.52378
+angle: 6.18945
+dihedral: 1.80131
+external dipole: 1.76207
+dispersion: 9.07143
+electrostatic: 0
+ED: -0.314
+ED: -0.314
+Angle between:
+6 2 0 1 and 1 0 0 : 116.246
+-----
+doubleBit run 1 of 1: 5%
+time: 5 potential: 70.8115 Rotational KE: 27.3336 Translational KE: 26.3913 TE: 124.536
+expenditure: -0.659645
+constraint: 27.5423
+constrainAxis: 16.4078
+constrainAxisTime: 0.502474
+bond: 6.97183
+angle: 6.78035
+dihedral: 3.84052
+external dipole: 1.44538
+dispersion: 7.32079
+electrostatic: 0
+ED: -0.377
+ED: -0.377
+Angle between:
+6 2 0 1 and 1 0 0 : 114.631
+-----
+doubleBit run 1 of 1: 6%
+time: 6 potential: 76.6085 Rotational KE: 25.6171 Translational KE: 27.4295 TE: 129.655
+expenditure: -1.1099
+constraint: 33.2161
+constrainAxis: 18.4743
+constrainAxisTime: 0.123693
+bond: 5.29272
+angle: 7.91663
+dihedral: 2.61937
+external dipole: 0.294311
+dispersion: 8.67133
+electrostatic: 0
+ED: -0.44
+ED: -0.44
+Angle between:
+6 2 0 1 and 1 0 0 : 115.018
+-----
+doubleBit run 1 of 1: 7%
+time: 7 potential: 62.8829 Rotational KE: 35.0751 Translational KE: 22.0412 TE: 119.999
+expenditure: -1.48706
+constraint: 29.6988
+constrainAxis: 12.046
+constrainAxisTime: 0.649974
+bond: 3.03775
+angle: 4.78516
+dihedral: 1.66494
+external dipole: 1.28703
+dispersion: 9.71327
+electrostatic: 0
+ED: -0.503
+ED: -0.503
+Angle between:
+6 2 0 1 and 1 0 0 : 115.596
+-----
+doubleBit run 1 of 1: 8%
+time: 8 potential: 66.6984 Rotational KE: 26.1952 Translational KE: 22.5995 TE: 115.493
+expenditure: -1.61732
+constraint: 27.4119
+constrainAxis: 17.2703
+constrainAxisTime: 0.00749421
+bond: 8.34784
+angle: 4.82625
+dihedral: 1.16028
+external dipole: 0.988807
+dispersion: 6.68551
+electrostatic: 0
+ED: -0.565
+ED: -0.565
+Angle between:
+6 2 0 1 and 1 0 0 : 116.282
+-----
+doubleBit run 1 of 1: 9%
+time: 9 potential: 77.1575 Rotational KE: 24.606 Translational KE: 22.9002 TE: 124.664
+expenditure: -1.72231
+constraint: 37.7132
+constrainAxis: 18.3368
+constrainAxisTime: 0.0101751
+bond: 7.37466
+angle: 7.37438
+dihedral: 2.56359
+external dipole: 1.04014
+dispersion: 2.74455
+electrostatic: 0
+ED: -0.628
+ED: -0.628
+Angle between:
+6 2 0 1 and 1 0 0 : 115.147
+-----
+doubleBit run 1 of 1: 10%
+time: 10 potential: 70.2922 Rotational KE: 22.5828 Translational KE: 31.6897 TE: 124.565
+expenditure: -1.9676
+constraint: 34.4818
+constrainAxis: 11.6974
+constrainAxisTime: 1.77631
+bond: 5.09659
+angle: 5.49836
+dihedral: 4.34891
+external dipole: 1.50496
+dispersion: 5.88795
+electrostatic: 0
+ED: -0.691
+ED: -0.691
+Angle between:
+6 2 0 1 and 1 0 0 : 116.081
+-----
+doubleBit run 1 of 1: 11%
+time: 11 potential: 59.6413 Rotational KE: 27.7102 Translational KE: 17.8074 TE: 105.159
+expenditure: -2.35276
+constraint: 28.0951
+constrainAxis: 12.0695
+constrainAxisTime: 0.0950946
+bond: 5.12709
+angle: 3.49705
+dihedral: 0.5592
+external dipole: 1.07764
+dispersion: 9.12059
+electrostatic: 0
+ED: -0.754
+ED: -0.754
+Angle between:
+6 2 0 1 and 1 0 0 : 115.046
+-----
+doubleBit run 1 of 1: 12%
+time: 12 potential: 65.1101 Rotational KE: 25.5963 Translational KE: 29.3576 TE: 120.064
+expenditure: -2.05362
+constraint: 28.93
+constrainAxis: 13.2865
+constrainAxisTime: 0.27138
+bond: 8.02086
+angle: 5.51821
+dihedral: 1.92497
+external dipole: 0.994234
+dispersion: 6.16394
+electrostatic: 0
+ED: -0.817
+ED: -0.817
+Angle between:
+6 2 0 1 and 1 0 0 : 114.606
+-----
+doubleBit run 1 of 1: 13%
+time: 13 potential: 64.6943 Rotational KE: 31.4514 Translational KE: 26.4545 TE: 122.6
+expenditure: -1.82317
+constraint: 23.7099
+constrainAxis: 17.6718
+constrainAxisTime: 0.141782
+bond: 4.26965
+angle: 9.49634
+dihedral: 2.39949
+external dipole: 1.92138
+dispersion: 5.08385
+electrostatic: 0
+ED: -0.88
+ED: -0.88
+Angle between:
+6 2 0 1 and 1 0 0 : 115.146
+-----
+doubleBit run 1 of 1: 14%
+time: 14 potential: 50.9763 Rotational KE: 24.4229 Translational KE: 29.2605 TE: 104.66
+expenditure: -2.57127
+constraint: 19.2402
+constrainAxis: 16.1446
+constrainAxisTime: 0.0267931
+bond: 3.65762
+angle: 4.4439
+dihedral: 1.5559
+external dipole: 0.378854
+dispersion: 5.52831
+electrostatic: 0
+ED: -0.942
+ED: -0.942
+Angle between:
+6 2 0 1 and 1 0 0 : 115.438
+-----
+doubleBit run 1 of 1: 15%
+time: 15 potential: 60.8867 Rotational KE: 31.1246 Translational KE: 21.9439 TE: 113.955
+expenditure: -3.09238
+constraint: 22.022
+constrainAxis: 14.8909
+constrainAxisTime: 0.816609
+bond: 6.19834
+angle: 3.58273
+dihedral: 4.97468
+external dipole: 2.11473
+dispersion: 6.28676
+electrostatic: 0
+ED: -1.005
+ED: -1.005
+Angle between:
+6 2 0 1 and 1 0 0 : 115.469
+-----
+doubleBit run 1 of 1: 16%
+time: 16 potential: 63.1617 Rotational KE: 18.4032 Translational KE: 22.8767 TE: 104.442
+expenditure: -3.48784
+constraint: 30.1079
+constrainAxis: 14.3791
+constrainAxisTime: 0.0357741
+bond: 4.19983
+angle: 7.78987
+dihedral: 1.26424
+external dipole: 0.457558
+dispersion: 4.92739
+electrostatic: 0
+ED: -1.068
+ED: -1.068
+Angle between:
+6 2 0 1 and 1 0 0 : 115.108
+-----
+doubleBit run 1 of 1: 17%
+time: 17 potential: 62.5451 Rotational KE: 26.3323 Translational KE: 20.5742 TE: 109.452
+expenditure: -3.68974
+constraint: 28.8059
+constrainAxis: 12.5742
+constrainAxisTime: 0.0606057
+bond: 7.21443
+angle: 4.03484
+dihedral: 2.21017
+external dipole: 1.05703
+dispersion: 6.58794
+electrostatic: 0
+ED: -1.131
+ED: -1.131
+Angle between:
+6 2 0 1 and 1 0 0 : 115.197
+-----
+doubleBit run 1 of 1: 18%
+time: 18 potential: 61.7905 Rotational KE: 21.5622 Translational KE: 15.5522 TE: 98.9049
+expenditure: -3.56949
+constraint: 31.4136
+constrainAxis: 9.83824
+constrainAxisTime: 0.706286
+bond: 2.22404
+angle: 5.38646
+dihedral: 2.62185
+external dipole: 1.71502
+dispersion: 7.88505
+electrostatic: 0
+ED: -1.194
+ED: -1.194
+Angle between:
+6 2 0 1 and 1 0 0 : 114.326
+-----
+doubleBit run 1 of 1: 19%
+time: 19 potential: 69.7574 Rotational KE: 20.8409 Translational KE: 21.9207 TE: 112.519
+expenditure: -4.27896
+constraint: 37.0321
+constrainAxis: 14.618
+constrainAxisTime: 0.198003
+bond: 4.89491
+angle: 5.31114
+dihedral: 1.74322
+external dipole: 0.926657
+dispersion: 5.03343
+electrostatic: 0
+ED: -1.257
+ED: -1.257
+Angle between:
+6 2 0 1 and 1 0 0 : 115.278
+-----
+doubleBit run 1 of 1: 20%
+time: 20 potential: 68.4651 Rotational KE: 26.1618 Translational KE: 27.8388 TE: 122.466
+expenditure: -4.42364
+constraint: 31.1672
+constrainAxis: 13.8074
+constrainAxisTime: 0.84056
+bond: 6.44395
+angle: 4.06001
+dihedral: 4.99899
+external dipole: 0.141493
+dispersion: 7.00554
+electrostatic: 0
+ED: -1.319
+ED: -1.319
+Angle between:
+6 2 0 1 and 1 0 0 : 113.142
+-----
+doubleBit run 1 of 1: 21%
+time: 21 potential: 63.8889 Rotational KE: 28.3321 Translational KE: 26.0337 TE: 118.255
+expenditure: -5.05882
+constraint: 28.5409
+constrainAxis: 12.4884
+constrainAxisTime: 0.720333
+bond: 5.27257
+angle: 6.50668
+dihedral: 1.9418
+external dipole: 0.483725
+dispersion: 7.93445
+electrostatic: 0
+ED: -1.382
+ED: -1.382
+Angle between:
+6 2 0 1 and 1 0 0 : 114.812
+-----
+doubleBit run 1 of 1: 22%
+time: 22 potential: 78.8525 Rotational KE: 36.2725 Translational KE: 28.7812 TE: 143.906
+expenditure: -4.82766
+constraint: 45.057
+constrainAxis: 15.7935
+constrainAxisTime: 0.858943
+bond: 4.75397
+angle: 6.47716
+dihedral: 1.27124
+external dipole: 0.30903
+dispersion: 4.33167
+electrostatic: 0
+ED: -1.445
+ED: -1.445
+Angle between:
+6 2 0 1 and 1 0 0 : 114.658
+-----
+doubleBit run 1 of 1: 23%
+time: 23 potential: 60.4012 Rotational KE: 26.8079 Translational KE: 34.1287 TE: 121.338
+expenditure: -5.66815
+constraint: 30.1586
+constrainAxis: 11.5691
+constrainAxisTime: 0.257328
+bond: 4.80681
+angle: 6.58798
+dihedral: 1.33042
+external dipole: 2.28076
+dispersion: 3.41025
+electrostatic: 0
+ED: -1.508
+ED: -1.508
+Angle between:
+6 2 0 1 and 1 0 0 : 115.648
+-----
+doubleBit run 1 of 1: 24%
+time: 24 potential: 84.0766 Rotational KE: 19.3289 Translational KE: 32.9456 TE: 136.351
+expenditure: -5.55783
+constraint: 46.6196
+constrainAxis: 12.2307
+constrainAxisTime: 0.924781
+bond: 2.43103
+angle: 5.27858
+dihedral: 4.88641
+external dipole: 3.59994
+dispersion: 8.10559
+electrostatic: 0
+ED: -1.571
+ED: -1.571
+Angle between:
+6 2 0 1 and 1 0 0 : 113.841
+-----
+doubleBit run 1 of 1: 25%
+time: 25 potential: 56.6944 Rotational KE: 32.1518 Translational KE: 23.7433 TE: 112.59
+expenditure: -5.71675
+constraint: 21.3543
+constrainAxis: 11.8264
+constrainAxisTime: 0.491593
+bond: 5.60478
+angle: 3.4429
+dihedral: 2.39269
+external dipole: 4.46637
+dispersion: 7.11537
+electrostatic: 0
+ED: -1.634
+ED: -1.634
+Angle between:
+6 2 0 1 and 1 0 0 : 112.737
+-----
+doubleBit run 1 of 1: 26%
+time: 26 potential: 58.9523 Rotational KE: 18.2479 Translational KE: 32.0192 TE: 109.219
+expenditure: -5.22376
+constraint: 31.699
+constrainAxis: 12.5443
+constrainAxisTime: 0.0265493
+bond: 2.16936
+angle: 4.30562
+dihedral: 2.07972
+external dipole: 0.741284
+dispersion: 5.38641
+electrostatic: 0
+ED: -1.696
+ED: -1.696
+Angle between:
+6 2 0 1 and 1 0 0 : 111.601
+-----
+doubleBit run 1 of 1: 27%
+time: 27 potential: 61.1994 Rotational KE: 33.8869 Translational KE: 27.4856 TE: 122.572
+expenditure: -5.01514
+constraint: 27.1691
+constrainAxis: 15.4952
+constrainAxisTime: 0.714956
+bond: 3.27517
+angle: 4.48315
+dihedral: 3.40755
+external dipole: 1.44514
+dispersion: 5.20914
+electrostatic: 0
+ED: -1.759
+ED: -1.759
+Angle between:
+6 2 0 1 and 1 0 0 : 109.155
+-----
+doubleBit run 1 of 1: 28%
+time: 28 potential: 69.0027 Rotational KE: 24.1107 Translational KE: 28.1373 TE: 121.251
+expenditure: -3.87337
+constraint: 30.5744
+constrainAxis: 16.335
+constrainAxisTime: 0.971352
+bond: 3.97372
+angle: 10.5141
+dihedral: 1.31031
+external dipole: 0.856834
+dispersion: 4.46689
+electrostatic: 0
+ED: -1.822
+ED: -1.822
+Angle between:
+6 2 0 1 and 1 0 0 : 110.124
+-----
+doubleBit run 1 of 1: 29%
+time: 29 potential: 63.9311 Rotational KE: 35.4864 Translational KE: 21.0944 TE: 120.512
+expenditure: -4.19723
+constraint: 31.0392
+constrainAxis: 14.7923
+constrainAxisTime: 1.98949
+bond: 3.749
+angle: 4.6755
+dihedral: 1.84642
+external dipole: 0.27556
+dispersion: 5.56359
+electrostatic: 0
+ED: -1.885
+ED: -1.885
+Angle between:
+6 2 0 1 and 1 0 0 : 113.711
+-----
+doubleBit run 1 of 1: 30%
+time: 30 potential: 72.9404 Rotational KE: 34.7613 Translational KE: 19.1053 TE: 126.807
+expenditure: -4.35676
+constraint: 40.7298
+constrainAxis: 10.9939
+constrainAxisTime: 0.754544
+bond: 4.4852
+angle: 6.64663
+dihedral: 1.13099
+external dipole: 0.62485
+dispersion: 7.57451
+electrostatic: 0
+ED: -1.948
+ED: -1.948
+Angle between:
+6 2 0 1 and 1 0 0 : 113.008
+-----
+doubleBit run 1 of 1: 31%
+time: 31 potential: 60.8657 Rotational KE: 30.1523 Translational KE: 31.6303 TE: 122.648
+expenditure: -4.14165
+constraint: 29.1525
+constrainAxis: 11.7518
+constrainAxisTime: 0.0188059
+bond: 4.46824
+angle: 5.79572
+dihedral: 2.2582
+external dipole: 2.70078
+dispersion: 4.71963
+electrostatic: 0
+ED: -2.011
+ED: -2.011
+Angle between:
+6 2 0 1 and 1 0 0 : 110.474
+-----
+doubleBit run 1 of 1: 32%
+time: 32 potential: 83.1 Rotational KE: 32.0708 Translational KE: 44.6288 TE: 159.8
+expenditure: -4.46297
+constraint: 48.7883
+constrainAxis: 10.5712
+constrainAxisTime: 0.0419619
+bond: 5.82969
+angle: 4.43317
+dihedral: 3.56181
+external dipole: 1.73942
+dispersion: 8.13441
+electrostatic: 0
+ED: -2.073
+ED: -2.073
+Angle between:
+6 2 0 1 and 1 0 0 : 112.204
+-----
+doubleBit run 1 of 1: 33%
+time: 33 potential: 74.2004 Rotational KE: 39.0408 Translational KE: 37.7703 TE: 151.011
+expenditure: -4.37751
+constraint: 38.6603
+constrainAxis: 12.8046
+constrainAxisTime: 0.723671
+bond: 3.99092
+angle: 7.01654
+dihedral: 4.23863
+external dipole: 2.98794
+dispersion: 3.77788
+electrostatic: 0
+ED: -2.136
+ED: -2.136
+Angle between:
+6 2 0 1 and 1 0 0 : 112.426
+-----
+doubleBit run 1 of 1: 34%
+time: 34 potential: 75.4507 Rotational KE: 23.2083 Translational KE: 29.4192 TE: 128.078
+expenditure: -4.96285
+constraint: 40.8902
+constrainAxis: 10.9577
+constrainAxisTime: 0.132697
+bond: 5.203
+angle: 5.46234
+dihedral: 3.36264
+external dipole: 1.78639
+dispersion: 7.65584
+electrostatic: 0
+ED: -2.199
+ED: -2.199
+Angle between:
+6 2 0 1 and 1 0 0 : 114.949
+-----
+doubleBit run 1 of 1: 35%
+time: 35 potential: 65.8597 Rotational KE: 28.1577 Translational KE: 33.1438 TE: 127.161
+expenditure: -4.45098
+constraint: 31.8409
+constrainAxis: 13.0557
+constrainAxisTime: 0.166463
+bond: 4.30665
+angle: 7.40605
+dihedral: 3.16642
+external dipole: 2.26103
+dispersion: 3.65645
+electrostatic: 0
+ED: -2.262
+ED: -2.262
+Angle between:
+6 2 0 1 and 1 0 0 : 114.889
+-----
+doubleBit run 1 of 1: 36%
+time: 36 potential: 72.6668 Rotational KE: 23.9819 Translational KE: 27.7655 TE: 124.414
+expenditure: -3.54391
+constraint: 33.7067
+constrainAxis: 13.7656
+constrainAxisTime: 0.285987
+bond: 5.81243
+angle: 8.94088
+dihedral: 1.29656
+external dipole: 3.02971
+dispersion: 5.82896
+electrostatic: 0
+ED: -2.325
+ED: -2.325
+Angle between:
+6 2 0 1 and 1 0 0 : 113.155
+-----
+doubleBit run 1 of 1: 37%
+time: 37 potential: 64.6349 Rotational KE: 28.3145 Translational KE: 27.1274 TE: 120.077
+expenditure: -3.52905
+constraint: 27.0473
+constrainAxis: 11.3707
+constrainAxisTime: 0.468976
+bond: 5.40908
+angle: 11.4882
+dihedral: 2.2517
+external dipole: 1.50377
+dispersion: 5.09525
+electrostatic: 0
+ED: -2.388
+ED: -2.388
+Angle between:
+6 2 0 1 and 1 0 0 : 116.678
+-----
+doubleBit run 1 of 1: 38%
+time: 38 potential: 71.0931 Rotational KE: 31.4758 Translational KE: 24.5843 TE: 127.153
+expenditure: -2.84121
+constraint: 36.9242
+constrainAxis: 10.0469
+constrainAxisTime: 0.0496713
+bond: 5.0073
+angle: 9.27779
+dihedral: 2.58333
+external dipole: 0.618109
+dispersion: 6.58588
+electrostatic: 0
+ED: -2.45
+ED: -2.45
+Angle between:
+6 2 0 1 and 1 0 0 : 113.878
+-----
+doubleBit run 1 of 1: 39%
+time: 39 potential: 78.6909 Rotational KE: 25.3846 Translational KE: 25.9498 TE: 130.025
+expenditure: -2.78332
+constraint: 40.0303
+constrainAxis: 9.1167
+constrainAxisTime: 0.382493
+bond: 3.96191
+angle: 14.4762
+dihedral: 1.5618
+external dipole: 0.628512
+dispersion: 8.5329
+electrostatic: 0
+ED: -2.513
+ED: -2.513
+Angle between:
+6 2 0 1 and 1 0 0 : 116.289
+-----
+doubleBit run 1 of 1: 40%
+time: 40 potential: 66.0875 Rotational KE: 22.0756 Translational KE: 21.1316 TE: 109.295
+expenditure: -1.22628
+constraint: 25.4261
+constrainAxis: 12.4113
+constrainAxisTime: 0.143499
+bond: 9.27007
+angle: 10.0116
+dihedral: 2.51265
+external dipole: 1.71339
+dispersion: 4.59894
+electrostatic: 0
+ED: -2.576
+ED: -2.576
+Angle between:
+6 2 0 1 and 1 0 0 : 116.825
+-----
+doubleBit run 1 of 1: 41%
+time: 41 potential: 75.4136 Rotational KE: 21.7561 Translational KE: 23.9289 TE: 121.099
+expenditure: 0.61431
+constraint: 39.6282
+constrainAxis: 10.7236
+constrainAxisTime: 2.03334
+bond: 6.42643
+angle: 6.04737
+dihedral: 2.30039
+external dipole: 0.792948
+dispersion: 7.46124
+electrostatic: 0
+ED: -2.639
+ED: -2.639
+Angle between:
+6 2 0 1 and 1 0 0 : 116.941
+-----
+doubleBit run 1 of 1: 42%
+time: 42 potential: 66.5307 Rotational KE: 26.1345 Translational KE: 24.3358 TE: 117.001
+expenditure: 3.35185
+constraint: 30.944
+constrainAxis: 12.7348
+constrainAxisTime: 2.62956
+bond: 4.93529
+angle: 6.74064
+dihedral: 2.45898
+external dipole: 0.908603
+dispersion: 5.17883
+electrostatic: 0
+ED: -2.702
+ED: -2.702
+Angle between:
+6 2 0 1 and 1 0 0 : 117.228
+-----
+doubleBit run 1 of 1: 43%
+time: 43 potential: 76.688 Rotational KE: 21.2417 Translational KE: 24.2755 TE: 122.205
+expenditure: 4.98828
+constraint: 38.0522
+constrainAxis: 16.2138
+constrainAxisTime: 0.156099
+bond: 1.62937
+angle: 8.04416
+dihedral: 4.71092
+external dipole: 0.450874
+dispersion: 7.43069
+electrostatic: 0
+ED: -2.765
+ED: -2.765
+Angle between:
+6 2 0 1 and 1 0 0 : 117.583
+-----
+doubleBit run 1 of 1: 44%
+time: 44 potential: 61.2903 Rotational KE: 27.5636 Translational KE: 24.4561 TE: 113.31
+expenditure: 7.41081
+constraint: 24.3927
+constrainAxis: 13.9294
+constrainAxisTime: 0.0808586
+bond: 3.54653
+angle: 11.7976
+dihedral: 2.07665
+external dipole: 0.749565
+dispersion: 4.71706
+electrostatic: 0
+ED: -2.827
+ED: -2.827
+Angle between:
+6 2 0 1 and 1 0 0 : 118.064
+-----
+doubleBit run 1 of 1: 45%
+time: 45 potential: 78.7709 Rotational KE: 21.3101 Translational KE: 27.3085 TE: 127.389
+expenditure: 10.9589
+constraint: 38.4022
+constrainAxis: 15.2824
+constrainAxisTime: 0.0730864
+bond: 2.90117
+angle: 12.4181
+dihedral: 2.1279
+external dipole: 1.54023
+dispersion: 6.02579
+electrostatic: 0
+ED: -2.89
+ED: -2.89
+Angle between:
+6 2 0 1 and 1 0 0 : 118.237
+-----
+doubleBit run 1 of 1: 46%
+time: 46 potential: 74.8795 Rotational KE: 27.6361 Translational KE: 19.2902 TE: 121.806
+expenditure: 13.05
+constraint: 31.1507
+constrainAxis: 19.608
+constrainAxisTime: 1.15827
+bond: 3.3681
+angle: 13.5627
+dihedral: 1.59711
+external dipole: 0.33596
+dispersion: 4.09859
+electrostatic: 0
+ED: -2.953
+ED: -2.953
+Angle between:
+6 2 0 1 and 1 0 0 : 118.24
+-----
+doubleBit run 1 of 1: 47%
+time: 47 potential: 82.1414 Rotational KE: 24.8288 Translational KE: 19.9712 TE: 126.941
+expenditure: 15.4461
+constraint: 32.6461
+constrainAxis: 23.843
+constrainAxisTime: 0.449184
+bond: 4.98415
+angle: 14.4024
+dihedral: 1.40335
+external dipole: 0.660117
+dispersion: 3.75305
+electrostatic: 0
+ED: -3.016
+ED: -3.016
+Angle between:
+6 2 0 1 and 1 0 0 : 118.794
+-----
+doubleBit run 1 of 1: 48%
+time: 48 potential: 75.7146 Rotational KE: 31.9945 Translational KE: 27.0154 TE: 134.724
+expenditure: 17.0737
+constraint: 30.4656
+constrainAxis: 22.1552
+constrainAxisTime: 0.0143846
+bond: 1.36275
+angle: 10.2955
+dihedral: 1.79282
+external dipole: 1.77343
+dispersion: 7.85494
+electrostatic: 0
+ED: -3.079
+ED: -3.079
+Angle between:
+6 2 0 1 and 1 0 0 : 118.793
+-----
+doubleBit run 1 of 1: 49%
+time: 49 potential: 80.5357 Rotational KE: 18.1981 Translational KE: 25.1167 TE: 123.85
+expenditure: 18.8225
+constraint: 26.48
+constrainAxis: 18.0278
+constrainAxisTime: 0.00694846
+bond: 4.20092
+angle: 17.0526
+dihedral: 2.64897
+external dipole: 3.23269
+dispersion: 8.88574
+electrostatic: 0
+ED: -3.142
+ED: -3.142
+Angle between:
+6 2 0 1 and 1 0 0 : 119.451
+-----
+doubleBit run 1 of 1: 50%
+time: 50 potential: 80.5836 Rotational KE: 31.5526 Translational KE: 20.5704 TE: 132.707
+expenditure: 19.2072
+constraint: 37.5525
+constrainAxis: 20.3094
+constrainAxisTime: 1.23668
+bond: 4.70968
+angle: 9.38306
+dihedral: 1.35488
+external dipole: 0.329973
+dispersion: 5.70738
+electrostatic: 0
+ED: -3.204
+ED: -3.204
+Angle between:
+6 2 0 1 and 1 0 0 : 118.83
+-----
+doubleBit run 1 of 1: 51%
+time: 51 potential: 87.6641 Rotational KE: 29.5902 Translational KE: 21.6068 TE: 138.861
+expenditure: 18.6173
+constraint: 38.3894
+constrainAxis: 17.1994
+constrainAxisTime: 1.27042
+bond: 7.34581
+angle: 11.3618
+dihedral: 1.42498
+external dipole: 2.34237
+dispersion: 8.32997
+electrostatic: 0
+ED: -3.267
+ED: -3.267
+Angle between:
+6 2 0 1 and 1 0 0 : 119.549
+-----
+doubleBit run 1 of 1: 52%
+time: 52 potential: 94.2577 Rotational KE: 24.0144 Translational KE: 31.0515 TE: 149.323
+expenditure: 19.1492
+constraint: 38.1319
+constrainAxis: 20.6682
+constrainAxisTime: 4.13379
+bond: 6.9872
+angle: 10.3991
+dihedral: 1.72024
+external dipole: 4.53401
+dispersion: 7.68319
+electrostatic: 0
+ED: -3.33
+ED: -3.33
+Angle between:
+6 2 0 1 and 1 0 0 : 120.352
+-----
+doubleBit run 1 of 1: 53%
+time: 53 potential: 98.9039 Rotational KE: 28.3204 Translational KE: 22.4663 TE: 149.691
+expenditure: 19.0013
+constraint: 43.9704
+constrainAxis: 27.9263
+constrainAxisTime: 0.107723
+bond: 8.28387
+angle: 8.36407
+dihedral: 2.03562
+external dipole: 3.20874
+dispersion: 5.00721
+electrostatic: 0
+ED: -3.393
+ED: -3.393
+Angle between:
+6 2 0 1 and 1 0 0 : 118.95
+-----
+doubleBit run 1 of 1: 54%
+time: 54 potential: 93.8533 Rotational KE: 21.1992 Translational KE: 30.4609 TE: 145.513
+expenditure: 19.2677
+constraint: 39.7032
+constrainAxis: 24.7846
+constrainAxisTime: 0.174309
+bond: 6.10744
+angle: 14.0636
+dihedral: 1.73227
+external dipole: 1.56622
+dispersion: 5.72157
+electrostatic: 0
+ED: -3.456
+ED: -3.456
+Angle between:
+6 2 0 1 and 1 0 0 : 119.574
+-----
+doubleBit run 1 of 1: 55%
+time: 55 potential: 76.2075 Rotational KE: 32.3213 Translational KE: 20.4638 TE: 128.993
+expenditure: 18.8168
+constraint: 25.5861
+constrainAxis: 25.8104
+constrainAxisTime: 1.07696
+bond: 5.79335
+angle: 11.3558
+dihedral: 1.41687
+external dipole: 0.616776
+dispersion: 4.55129
+electrostatic: 0
+ED: -3.519
+ED: -3.519
+Angle between:
+6 2 0 1 and 1 0 0 : 118.96
+-----
+doubleBit run 1 of 1: 56%
+time: 56 potential: 86.9068 Rotational KE: 18.9001 Translational KE: 21.9062 TE: 127.713
+expenditure: 19.272
+constraint: 32.9354
+constrainAxis: 22.9319
+constrainAxisTime: 0.00622537
+bond: 4.69218
+angle: 11.1761
+dihedral: 2.21135
+external dipole: 3.17052
+dispersion: 9.78314
+electrostatic: 0
+ED: -3.581
+ED: -3.581
+Angle between:
+6 2 0 1 and 1 0 0 : 118.696
+-----
+doubleBit run 1 of 1: 57%
+time: 57 potential: 80.2906 Rotational KE: 20.4595 Translational KE: 25.9286 TE: 126.679
+expenditure: 19.6676
+constraint: 26.6125
+constrainAxis: 23.973
+constrainAxisTime: 1.5801
+bond: 4.34531
+angle: 13.0488
+dihedral: 3.48683
+external dipole: 2.44958
+dispersion: 4.79454
+electrostatic: 0
+ED: -3.644
+ED: -3.644
+Angle between:
+6 2 0 1 and 1 0 0 : 120.642
+-----
+doubleBit run 1 of 1: 58%
+time: 58 potential: 87.4968 Rotational KE: 21.439 Translational KE: 32.3528 TE: 141.289
+expenditure: 19.0997
+constraint: 33.9007
+constrainAxis: 31.1397
+constrainAxisTime: 1.18654
+bond: 3.42596
+angle: 10.1894
+dihedral: 2.83819
+external dipole: 1.13074
+dispersion: 3.68553
+electrostatic: 0
+ED: -3.707
+ED: -3.707
+Angle between:
+6 2 0 1 and 1 0 0 : 119.759
+-----
+doubleBit run 1 of 1: 59%
+time: 59 potential: 87.8706 Rotational KE: 27.3775 Translational KE: 38.1304 TE: 153.378
+expenditure: 20.1085
+constraint: 30.9119
+constrainAxis: 31.5206
+constrainAxisTime: 0.011327
+bond: 2.95975
+angle: 11.0232
+dihedral: 4.32703
+external dipole: 4.24834
+dispersion: 2.86841
+electrostatic: 0
+ED: -3.77
+ED: -3.77
+Angle between:
+6 2 0 1 and 1 0 0 : 119.27
+-----
+doubleBit run 1 of 1: 60%
+time: 60 potential: 89.9245 Rotational KE: 20.7491 Translational KE: 22.6499 TE: 133.324
+expenditure: 19.3876
+constraint: 31.5614
+constrainAxis: 27.6944
+constrainAxisTime: 0.262173
+bond: 3.97021
+angle: 10.11
+dihedral: 4.7061
+external dipole: 5.23541
+dispersion: 6.38484
+electrostatic: 0
+ED: -3.833
+ED: -3.833
+Angle between:
+6 2 0 1 and 1 0 0 : 119.632
+-----
+doubleBit run 1 of 1: 61%
+time: 61 potential: 86.5501 Rotational KE: 16.6804 Translational KE: 31.6709 TE: 134.901
+expenditure: 18.9403
+constraint: 30.2924
+constrainAxis: 29.8758
+constrainAxisTime: 0.298268
+bond: 5.37937
+angle: 8.23401
+dihedral: 0.807988
+external dipole: 2.41301
+dispersion: 9.24924
+electrostatic: 0
+ED: -3.896
+ED: -3.896
+Angle between:
+6 2 0 1 and 1 0 0 : 119.715
+-----
+doubleBit run 1 of 1: 62%
+time: 62 potential: 79.6951 Rotational KE: 30.7272 Translational KE: 28.8427 TE: 139.265
+expenditure: 19.7632
+constraint: 29.7413
+constrainAxis: 22.4973
+constrainAxisTime: 0.0306846
+bond: 5.46558
+angle: 13.9038
+dihedral: 2.44906
+external dipole: 1.42843
+dispersion: 4.17896
+electrostatic: 0
+ED: -3.958
+ED: -3.958
+Angle between:
+6 2 0 1 and 1 0 0 : 119.914
+-----
+doubleBit run 1 of 1: 63%
+time: 63 potential: 87.2677 Rotational KE: 21.2492 Translational KE: 28.1645 TE: 136.681
+expenditure: 19.846
+constraint: 39.9763
+constrainAxis: 19.851
+constrainAxisTime: 1.20875
+bond: 4.54403
+angle: 10.407
+dihedral: 4.63289
+external dipole: 0.493866
+dispersion: 6.15384
+electrostatic: 0
+ED: -4.021
+ED: -4.021
+Angle between:
+6 2 0 1 and 1 0 0 : 118.909
+-----
+doubleBit run 1 of 1: 64%
+time: 64 potential: 79.6155 Rotational KE: 37.1434 Translational KE: 17.4888 TE: 134.248
+expenditure: 19.8359
+constraint: 32.4707
+constrainAxis: 21.0393
+constrainAxisTime: 0.0264657
+bond: 3.25123
+angle: 11.3339
+dihedral: 1.9822
+external dipole: 1.09338
+dispersion: 8.41833
+electrostatic: 0
+ED: -4.084
+ED: -4.084
+Angle between:
+6 2 0 1 and 1 0 0 : 118.776
+-----
+doubleBit run 1 of 1: 65%
+time: 65 potential: 92.6578 Rotational KE: 25.6731 Translational KE: 29.1554 TE: 147.486
+expenditure: 19.3008
+constraint: 35.4895
+constrainAxis: 28.1256
+constrainAxisTime: 0.853263
+bond: 8.20243
+angle: 7.66703
+dihedral: 3.56736
+external dipole: 5.06325
+dispersion: 3.68929
+electrostatic: 0
+ED: -4.147
+ED: -4.147
+Angle between:
+6 2 0 1 and 1 0 0 : 120.137
+-----
+doubleBit run 1 of 1: 66%
+time: 66 potential: 85.1229 Rotational KE: 22.9332 Translational KE: 27.1533 TE: 135.209
+expenditure: 19.2842
+constraint: 29.9511
+constrainAxis: 24.0611
+constrainAxisTime: 2.12742
+bond: 8.23322
+angle: 12.9867
+dihedral: 2.27875
+external dipole: 0.362415
+dispersion: 5.12224
+electrostatic: 0
+ED: -4.21
+ED: -4.21
+Angle between:
+6 2 0 1 and 1 0 0 : 119.645
+-----
+doubleBit run 1 of 1: 67%
+time: 67 potential: 84.2044 Rotational KE: 29.7219 Translational KE: 19.4831 TE: 133.409
+expenditure: 19.2046
+constraint: 28.0484
+constrainAxis: 28.6279
+constrainAxisTime: 0.162818
+bond: 7.03432
+angle: 10.0267
+dihedral: 2.42332
+external dipole: 0.525597
+dispersion: 7.35529
+electrostatic: 0
+ED: -4.273
+ED: -4.273
+Angle between:
+6 2 0 1 and 1 0 0 : 119.724
+-----
+doubleBit run 1 of 1: 68%
+time: 68 potential: 90.3119 Rotational KE: 33.9948 Translational KE: 25.7664 TE: 150.073
+expenditure: 19.5442
+constraint: 32.1085
+constrainAxis: 23.4034
+constrainAxisTime: 0.245065
+bond: 4.17851
+angle: 16.3198
+dihedral: 6.17037
+external dipole: 1.68031
+dispersion: 6.206
+electrostatic: 0
+ED: -4.335
+ED: -4.335
+Angle between:
+6 2 0 1 and 1 0 0 : 119.052
+-----
+doubleBit run 1 of 1: 69%
+time: 69 potential: 81.2982 Rotational KE: 39.5752 Translational KE: 20.8541 TE: 141.727
+expenditure: 19.4247
+constraint: 29.5228
+constrainAxis: 23.4726
+constrainAxisTime: 0.229006
+bond: 6.77399
+angle: 9.37167
+dihedral: 4.35776
+external dipole: 0.908205
+dispersion: 6.66211
+electrostatic: 0
+ED: -4.398
+ED: -4.398
+Angle between:
+6 2 0 1 and 1 0 0 : 119.135
+-----
+doubleBit run 1 of 1: 70%
+time: 70 potential: 89.7184 Rotational KE: 29.4535 Translational KE: 23.3724 TE: 142.544
+expenditure: 19.438
+constraint: 36.4668
+constrainAxis: 25.3503
+constrainAxisTime: 0.421865
+bond: 3.763
+angle: 11.0336
+dihedral: 5.81169
+external dipole: 2.96279
+dispersion: 3.90828
+electrostatic: 0
+ED: -4.461
+ED: -4.461
+Angle between:
+6 2 0 1 and 1 0 0 : 119.541
+-----
+doubleBit run 1 of 1: 71%
+time: 71 potential: 76.1415 Rotational KE: 24.4375 Translational KE: 29.394 TE: 129.973
+expenditure: 19.2628
+constraint: 23.048
+constrainAxis: 22.6343
+constrainAxisTime: 1.15702
+bond: 3.92286
+angle: 13.1231
+dihedral: 2.5901
+external dipole: 2.78335
+dispersion: 6.88286
+electrostatic: 0
+ED: -4.524
+ED: -4.524
+Angle between:
+6 2 0 1 and 1 0 0 : 119.836
+-----
+doubleBit run 1 of 1: 72%
+time: 72 potential: 74.4224 Rotational KE: 26.9548 Translational KE: 23.673 TE: 125.05
+expenditure: 19.2376
+constraint: 25.2166
+constrainAxis: 21.4957
+constrainAxisTime: 1.85947
+bond: 5.04177
+angle: 7.76319
+dihedral: 2.01261
+external dipole: 0.691587
+dispersion: 10.3414
+electrostatic: 0
+ED: -4.587
+ED: -4.587
+Angle between:
+6 2 0 1 and 1 0 0 : 119.961
+-----
+doubleBit run 1 of 1: 73%
+time: 73 potential: 85.7217 Rotational KE: 27.2875 Translational KE: 17.8062 TE: 130.815
+expenditure: 19.2231
+constraint: 29.8156
+constrainAxis: 21.9106
+constrainAxisTime: 1.14048
+bond: 8.45673
+angle: 7.51455
+dihedral: 4.07441
+external dipole: 1.7923
+dispersion: 11.0171
+electrostatic: 0
+ED: -4.65
+ED: -4.65
+Angle between:
+6 2 0 1 and 1 0 0 : 119.675
+-----
+doubleBit run 1 of 1: 74%
+time: 74 potential: 74.8163 Rotational KE: 24.5476 Translational KE: 36.4297 TE: 135.794
+expenditure: 18.969
+constraint: 20.6871
+constrainAxis: 20.7982
+constrainAxisTime: 0.267165
+bond: 4.28112
+angle: 14.3105
+dihedral: 4.55368
+external dipole: 0.265952
+dispersion: 9.65254
+electrostatic: 0
+ED: -4.712
+ED: -4.712
+Angle between:
+6 2 0 1 and 1 0 0 : 118.995
+-----
+doubleBit run 1 of 1: 75%
+time: 75 potential: 84.1161 Rotational KE: 29.7082 Translational KE: 25.4113 TE: 139.236
+expenditure: 20.0133
+constraint: 32.8706
+constrainAxis: 23.3695
+constrainAxisTime: 0.832037
+bond: 6.33045
+angle: 8.65447
+dihedral: 2.33065
+external dipole: 0.45449
+dispersion: 9.27385
+electrostatic: 0
+ED: -4.775
+ED: -4.775
+Angle between:
+6 2 0 1 and 1 0 0 : 118.678
+-----
+doubleBit run 1 of 1: 76%
+time: 76 potential: 77.2304 Rotational KE: 29.7203 Translational KE: 35.9433 TE: 142.894
+expenditure: 19.1557
+constraint: 29.8941
+constrainAxis: 17.2384
+constrainAxisTime: 0.291327
+bond: 2.44077
+angle: 15.508
+dihedral: 2.8805
+external dipole: 0.384493
+dispersion: 8.59283
+electrostatic: 0
+ED: -4.838
+ED: -4.838
+Angle between:
+6 2 0 1 and 1 0 0 : 118.474
+-----
+doubleBit run 1 of 1: 77%
+time: 77 potential: 81.0344 Rotational KE: 24.4782 Translational KE: 26.2066 TE: 131.719
+expenditure: 18.5456
+constraint: 29.8925
+constrainAxis: 22.6745
+constrainAxisTime: 0.265758
+bond: 4.10802
+angle: 12.3894
+dihedral: 2.01789
+external dipole: 1.51985
+dispersion: 8.16657
+electrostatic: 0
+ED: -4.901
+ED: -4.901
+Angle between:
+6 2 0 1 and 1 0 0 : 119.107
+-----
+doubleBit run 1 of 1: 78%
+time: 78 potential: 80.2668 Rotational KE: 30.0406 Translational KE: 27.3996 TE: 137.707
+expenditure: 16.6348
+constraint: 32.0566
+constrainAxis: 23.9209
+constrainAxisTime: 0.140162
+bond: 6.87215
+angle: 7.87576
+dihedral: 1.904
+external dipole: 0.775299
+dispersion: 6.72201
+electrostatic: 0
+ED: -4.964
+ED: -4.964
+Angle between:
+6 2 0 1 and 1 0 0 : 118.475
+-----
+doubleBit run 1 of 1: 79%
+time: 79 potential: 84.5136 Rotational KE: 31.0872 Translational KE: 23.4537 TE: 139.054
+expenditure: 14.0998
+constraint: 33.1378
+constrainAxis: 15.3082
+constrainAxisTime: 0.885932
+bond: 5.3945
+angle: 10.9931
+dihedral: 2.21484
+external dipole: 0.681425
+dispersion: 15.8978
+electrostatic: 0
+ED: -5.027
+ED: -5.027
+Angle between:
+6 2 0 1 and 1 0 0 : 116.766
+-----
+doubleBit run 1 of 1: 80%
+time: 80 potential: 70.521 Rotational KE: 36.2578 Translational KE: 23.9882 TE: 130.767
+expenditure: 10.948
+constraint: 25.4649
+constrainAxis: 15.3448
+constrainAxisTime: 0.999744
+bond: 5.17988
+angle: 12.4428
+dihedral: 3.02016
+external dipole: 1.13391
+dispersion: 6.93482
+electrostatic: 0
+ED: -5.089
+ED: -5.089
+Angle between:
+6 2 0 1 and 1 0 0 : 118.034
+-----
+doubleBit run 1 of 1: 81%
+time: 81 potential: 77.2005 Rotational KE: 29.5738 Translational KE: 17.5524 TE: 124.327
+expenditure: 10.3095
+constraint: 35.5219
+constrainAxis: 16.712
+constrainAxisTime: 0.23332
+bond: 6.96952
+angle: 9.1832
+dihedral: 2.33041
+external dipole: 0.491362
+dispersion: 5.7588
+electrostatic: 0
+ED: -5.152
+ED: -5.152
+Angle between:
+6 2 0 1 and 1 0 0 : 117.743
+-----
+doubleBit run 1 of 1: 82%
+time: 82 potential: 68.9266 Rotational KE: 42.9733 Translational KE: 28.9228 TE: 140.823
+expenditure: 8.16645
+constraint: 33.2122
+constrainAxis: 13.4122
+constrainAxisTime: 0.0436208
+bond: 5.93378
+angle: 5.42698
+dihedral: 3.71249
+external dipole: 0.574845
+dispersion: 6.61046
+electrostatic: 0
+ED: -5.215
+ED: -5.215
+Angle between:
+6 2 0 1 and 1 0 0 : 117.929
+-----
+doubleBit run 1 of 1: 83%
+time: 83 potential: 75.5752 Rotational KE: 27.9693 Translational KE: 28.4187 TE: 131.963
+expenditure: 6.2233
+constraint: 31.7339
+constrainAxis: 16.4006
+constrainAxisTime: 0.085017
+bond: 7.25884
+angle: 8.38399
+dihedral: 3.47981
+external dipole: 3.97024
+dispersion: 4.2628
+electrostatic: 0
+ED: -5.278
+ED: -5.278
+Angle between:
+6 2 0 1 and 1 0 0 : 116.587
+-----
+doubleBit run 1 of 1: 84%
+time: 84 potential: 62.7395 Rotational KE: 33.6545 Translational KE: 16.2387 TE: 112.633
+expenditure: 4.93704
+constraint: 26.8123
+constrainAxis: 15.2843
+constrainAxisTime: 0.154493
+bond: 7.99679
+angle: 5.62954
+dihedral: 1.25818
+external dipole: 1.36025
+dispersion: 4.24356
+electrostatic: 0
+ED: -5.341
+ED: -5.341
+Angle between:
+6 2 0 1 and 1 0 0 : 114.906
+-----
+doubleBit run 1 of 1: 85%
+time: 85 potential: 71.8272 Rotational KE: 22.5554 Translational KE: 13.8944 TE: 108.277
+expenditure: 3.55309
+constraint: 32.5972
+constrainAxis: 12.9204
+constrainAxisTime: 1.7378
+bond: 5.56463
+angle: 7.81565
+dihedral: 2.34502
+external dipole: 1.1998
+dispersion: 7.64668
+electrostatic: 0
+ED: -5.404
+ED: -5.404
+Angle between:
+6 2 0 1 and 1 0 0 : 112.884
+-----
+doubleBit run 1 of 1: 86%
+time: 86 potential: 62.0252 Rotational KE: 21.3946 Translational KE: 23.3541 TE: 106.774
+expenditure: 3.6128
+constraint: 24.7643
+constrainAxis: 8.99688
+constrainAxisTime: 3.04028
+bond: 4.15464
+angle: 10.2575
+dihedral: 2.72566
+external dipole: 0.523784
+dispersion: 7.56211
+electrostatic: 0
+ED: -5.466
+ED: -5.466
+Angle between:
+6 2 0 1 and 1 0 0 : 112.833
+-----
+doubleBit run 1 of 1: 87%
+time: 87 potential: 62.0132 Rotational KE: 23.503 Translational KE: 22.0347 TE: 107.551
+expenditure: 3.24731
+constraint: 24.6679
+constrainAxis: 15.741
+constrainAxisTime: 0.320126
+bond: 5.25801
+angle: 9.47287
+dihedral: 2.10072
+external dipole: 1.26728
+dispersion: 3.18533
+electrostatic: 0
+ED: -5.529
+ED: -5.529
+Angle between:
+6 2 0 1 and 1 0 0 : 112.75
+-----
+doubleBit run 1 of 1: 88%
+time: 88 potential: 70.5683 Rotational KE: 36.1366 Translational KE: 28.325 TE: 135.03
+expenditure: 3.82059
+constraint: 37.9096
+constrainAxis: 8.07992
+constrainAxisTime: 0.00139318
+bond: 4.14407
+angle: 6.99189
+dihedral: 1.9727
+external dipole: 1.42381
+dispersion: 10.045
+electrostatic: 0
+ED: -5.592
+ED: -5.592
+Angle between:
+6 2 0 1 and 1 0 0 : 112.257
+-----
+doubleBit run 1 of 1: 89%
+time: 89 potential: 57.0842 Rotational KE: 17.91 Translational KE: 25.9071 TE: 100.901
+expenditure: 3.87366
+constraint: 27.1682
+constrainAxis: 11.8532
+constrainAxisTime: 0.0560948
+bond: 5.47927
+angle: 5.62089
+dihedral: 1.082
+external dipole: 0.308628
+dispersion: 5.51592
+electrostatic: 0
+ED: -5.655
+ED: -5.655
+Angle between:
+6 2 0 1 and 1 0 0 : 110.669
+-----
+doubleBit run 1 of 1: 90%
+time: 90 potential: 69.9624 Rotational KE: 26.9524 Translational KE: 20.8082 TE: 117.723
+expenditure: 4.96685
+constraint: 33.5292
+constrainAxis: 15.6983
+constrainAxisTime: 0.00532939
+bond: 4.12857
+angle: 6.75389
+dihedral: 2.04459
+external dipole: 2.25075
+dispersion: 5.55182
+electrostatic: 0
+ED: -5.718
+ED: -5.718
+Angle between:
+6 2 0 1 and 1 0 0 : 111.298
+-----
+doubleBit run 1 of 1: 91%
+time: 91 potential: 56.678 Rotational KE: 24.802 Translational KE: 39.4147 TE: 120.895
+expenditure: 5.37078
+constraint: 22.1467
+constrainAxis: 11.6888
+constrainAxisTime: 0.122261
+bond: 5.04321
+angle: 5.77528
+dihedral: 2.26158
+external dipole: 0.903139
+dispersion: 8.73698
+electrostatic: 0
+ED: -5.781
+ED: -5.781
+Angle between:
+6 2 0 1 and 1 0 0 : 111.181
+-----
+doubleBit run 1 of 1: 92%
+time: 92 potential: 69.6018 Rotational KE: 20.7813 Translational KE: 30.2079 TE: 120.591
+expenditure: 5.80518
+constraint: 29.6948
+constrainAxis: 13.5754
+constrainAxisTime: 0.127887
+bond: 9.45973
+angle: 8.23653
+dihedral: 2.55118
+external dipole: 0.461628
+dispersion: 5.49461
+electrostatic: 0
+ED: -5.843
+ED: -5.843
+Angle between:
+6 2 0 1 and 1 0 0 : 109.22
+-----
+doubleBit run 1 of 1: 93%
+time: 93 potential: 71.0143 Rotational KE: 34.4147 Translational KE: 18.7761 TE: 124.205
+expenditure: 7.11928
+constraint: 32.7595
+constrainAxis: 17.3522
+constrainAxisTime: 0.0496474
+bond: 5.64182
+angle: 6.3413
+dihedral: 1.59448
+external dipole: 1.72377
+dispersion: 5.55158
+electrostatic: 0
+ED: -5.906
+ED: -5.906
+Angle between:
+6 2 0 1 and 1 0 0 : 110.5
+-----
+doubleBit run 1 of 1: 94%
+time: 94 potential: 67.7831 Rotational KE: 26.585 Translational KE: 20.8157 TE: 115.184
+expenditure: 8.27563
+constraint: 24.8179
+constrainAxis: 17.1459
+constrainAxisTime: 0.785093
+bond: 9.36679
+angle: 10.5374
+dihedral: 0.62657
+external dipole: 0.252682
+dispersion: 4.25076
+electrostatic: 0
+ED: -5.969
+ED: -5.969
+Angle between:
+6 2 0 1 and 1 0 0 : 108.002
+-----
+doubleBit run 1 of 1: 95%
+time: 95 potential: 60.2464 Rotational KE: 25.3148 Translational KE: 27.5311 TE: 113.092
+expenditure: 8.21132
+constraint: 24.6419
+constrainAxis: 16.4916
+constrainAxisTime: 0.00664156
+bond: 3.16009
+angle: 4.76984
+dihedral: 2.83773
+external dipole: 0.875651
+dispersion: 7.46299
+electrostatic: 0
+ED: -6.032
+ED: -6.032
+Angle between:
+6 2 0 1 and 1 0 0 : 109.505
+-----
+doubleBit run 1 of 1: 96%
+time: 96 potential: 71.0206 Rotational KE: 20.9889 Translational KE: 21.9006 TE: 113.91
+expenditure: 9.09433
+constraint: 33.5879
+constrainAxis: 13.1798
+constrainAxisTime: 1.90299
+bond: 2.96549
+angle: 8.46133
+dihedral: 3.06787
+external dipole: 1.59589
+dispersion: 6.25933
+electrostatic: 0
+ED: -6.095
+ED: -6.095
+Angle between:
+6 2 0 1 and 1 0 0 : 110.396
+-----
+doubleBit run 1 of 1: 97%
+time: 97 potential: 67.325 Rotational KE: 23.4882 Translational KE: 27.6845 TE: 118.498
+expenditure: 9.3457
+constraint: 28.5566
+constrainAxis: 9.79934
+constrainAxisTime: 0.234527
+bond: 3.1844
+angle: 8.89872
+dihedral: 3.35296
+external dipole: 1.01303
+dispersion: 12.2854
+electrostatic: 0
+ED: -6.158
+ED: -6.158
+Angle between:
+6 2 0 1 and 1 0 0 : 109.202
+-----
+doubleBit run 1 of 1: 98%
+time: 98 potential: 60.107 Rotational KE: 18.7261 Translational KE: 20.3768 TE: 99.2098
+expenditure: 9.30824
+constraint: 26.313
+constrainAxis: 14.6193
+constrainAxisTime: 0.375034
+bond: 2.21464
+angle: 5.87449
+dihedral: 1.9184
+external dipole: 0.809575
+dispersion: 7.98249
+electrostatic: 0
+ED: -6.22
+ED: -6.22
+Angle between:
+6 2 0 1 and 1 0 0 : 109.151
+-----
+doubleBit run 1 of 1: 99%
+time: 99 potential: 63.5031 Rotational KE: 24.7971 Translational KE: 36.035 TE: 124.335
+expenditure: 9.58629
+constraint: 28.3437
+constrainAxis: 14.7678
+constrainAxisTime: 0.325321
+bond: 5.72205
+angle: 4.25233
+dihedral: 1.01478
+external dipole: 0.584156
+dispersion: 8.49297
+electrostatic: 0
+ED: -6.283
+ED: -6.283
+Angle between:
+6 2 0 1 and 1 0 0 : 110.092
+-----
+doubleBit run 1 of 1: 100%
+time: 100 potential: 65.8241 Rotational KE: 18.8551 Translational KE: 32.9062 TE: 117.585
+expenditure: 9.13972
+constraint: 26.9788
+constrainAxis: 12.6886
+constrainAxisTime: 0.298993
+bond: 4.0195
+angle: 10.7762
+dihedral: 1.75305
+external dipole: 1.86869
+dispersion: 7.44036
+electrostatic: 0
+73.5223 26.5945 26.011
