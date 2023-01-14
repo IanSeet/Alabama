@@ -158,12 +158,12 @@ int main(int argc, char *argv[])
 	cout << '\n';
 	if (argc > 5) rng = stoi(args[5]); //else rng = stoi(args[2]);// cout << rng << '\n';
 	if (argc > 1) s = args[1];
-	if (!multi && s != "unitTest")
+	if (!multi && s.find("unitTest") == string::npos)
 	{
 		int seed = time(NULL) + rng;
 		srand(seed); //cout << seed << '\n';
 	}
-	if (s == "unitTest") {srand(0); isTest = 1;}
+	if (s.find("unitTest") != string::npos) {srand(0); isTest = 1;}
 	if (isTest) redirectCout = 1;
 	ofstream coutput("cout");
 	streambuf *coutbuf = cout.rdbuf(); //save old buf

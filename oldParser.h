@@ -216,6 +216,7 @@ void parseInteraction(ifstream &ifs, string &s, vector3d &offset, int counter, q
 			else if (aux2 == "umb") {observe = 1; umb = 1;}
 		}
 	}
+	//cout << "intListnew: " << intIdx <<  ' ' << s <<'\n';
 	if (s == "constraint")
 	{
 		string s2;
@@ -531,7 +532,27 @@ void probeInteraction(ifstream &ifs, string &s, int &intIdx)
 	istringstream iss(s);
 	string aux;
 	iss >> s >> aux;
-	if (isalpha(s[0])) intIdx++;
+	//cout << s << ' ' << aux << ' ' << intIdx << '\n';
+	if (s == "constraint")
+	{
+		intIdx++;
+	}
+	else if (s == "constrainAxis" || s == "extDipole" || s == "offDipole" || s == "extDipoleShift" || s == "offDipoleShift" || s == "staccatoDipole")
+	{
+		intIdx++;
+	}
+	else if (s == "bond" || s == "chain")
+	{
+		intIdx++;
+	}
+	else if (s == "angle" || s == "angleAxis" || s == "gaussAngle")
+	{
+		intIdx++;
+	}
+	else if (s == "dihedral")
+	{
+		intIdx++;
+	}
 	getline(ifs, s);
 }
 

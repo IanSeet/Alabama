@@ -148,7 +148,9 @@ void parseInput(ifstream &ifs)
 		
 		if (fileExist)
 		{
+			//cout << "fexist\n";
 			sim.initialise();
+			//cout << "initialised\n";
 			sim.findObservables();
 			//cout << "Observables found...\n";
 			RBlistMain = sim.RBlist;

@@ -312,6 +312,7 @@ class simulation
 	{
 		for (int i = 0; i < intListSize; i++)
 		{
+			//cout << intListSize << ' ' << i << ' ' << interactionList[i]->type << ' ' << interactionList[i]->subtype << '\n';
 			if (interactionList[i]->type == 5 && interactionList[i]->subtype == 3)
 			{
 				//cout << i << '\n';
@@ -453,7 +454,7 @@ class simulation
 		}
 	}
 
-	#include "langevin.h" //langevin thermostat
+	#include "langevin2.h" //langevin thermostat
 	#include "top.h"
 	#include "costf.h"
 	
