@@ -1,8 +1,13 @@
 import filecmp
 import os
+import sys
 
-fname1 = "cout"
-fname2 = "standard0"
+fname1 = sys.argv[1]
+fname2 = sys.argv[2]
+if len(sys.argv) > 3:
+	verbose = 1
+else:
+	verbose = 0
 f1 = open(fname1)
 f2 = open(fname2)
 
@@ -20,8 +25,15 @@ else:
 			print("Line ", i, "is identical")
 		else:
 			print("Line ", i, ":")
-			print(f1_lines[i])
-			print(f2_lines[i])
+			if verbose:
+				for x in f1_lines[i]:
+					print(x, ord(x))
+				print("---")
+				for x in f2_lines[i]:
+					print(x, ord(x))
+			else:
+				print(f1_lines[i])
+				print(f2_lines[i])
 
 	f1.close()
 	f2.close()
