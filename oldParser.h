@@ -533,26 +533,7 @@ void probeInteraction(ifstream &ifs, string &s, int &intIdx)
 	string aux;
 	iss >> s >> aux;
 	//cout << s << ' ' << aux << ' ' << intIdx << '\n';
-	if (s == "constraint")
-	{
-		intIdx++;
-	}
-	else if (s == "constrainAxis" || s == "extDipole" || s == "offDipole" || s == "extDipoleShift" || s == "offDipoleShift" || s == "staccatoDipole")
-	{
-		intIdx++;
-	}
-	else if (s == "bond" || s == "chain")
-	{
-		intIdx++;
-	}
-	else if (s == "angle" || s == "angleAxis" || s == "gaussAngle")
-	{
-		intIdx++;
-	}
-	else if (s == "dihedral")
-	{
-		intIdx++;
-	}
+	if (isalpha(s[0]) && s != "constrainAxisTime") intIdx++;
 	getline(ifs, s);
 }
 
